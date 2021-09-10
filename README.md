@@ -9,16 +9,16 @@
 - ✈️ Brasil, Portugal
 
 <div style="display: inline_block">
-  <img align="center" width="30px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'>
-  <img align="center" width="30px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'>
-  <img align="center" width="30px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg'>
-  <img align="center" width="30px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg'>
-  <img align="center" width="30px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg'>
-  <img align="center" width="30px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg'>
-  <img align="center" width="30px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg'>
-  <img align="center" width="30px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg'>
-  <img align="center" width="30px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg'>
-  <img align="center" width="30px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg'>
+  <img align="center" width="40px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg'>
+  <img align="center" width="40px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg'>
+  <img align="center" width="40px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg'>
+  <img align="center" width="40px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg'>
+  <img align="center" width="40px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg'>
+  <img align="center" width="40px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg'>
+  <img align="center" width="40px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg'>
+  <img align="center" width="40px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg'>
+  <img align="center" width="40px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg'>
+  <img align="center" width="40px" height:"30px" src='https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg'>
 </div>
 <br />
 <div style="display: inline_block">
